@@ -1,0 +1,10 @@
+E:\Alexander\work\FrequencyAnalyzer\bin\Debug\FrequencyAnalyzer.exe
+E:\Alexander\work\FrequencyAnalyzer\bin\Debug\FrequencyAnalyzer.pdb
+E:\Alexander\work\FrequencyAnalyzer\obj\Debug\FrequencyAnalyzer.csprojAssemblyReference.cache
+E:\Alexander\work\FrequencyAnalyzer\obj\Debug\FrequencyAnalyzer.Form1.resources
+E:\Alexander\work\FrequencyAnalyzer\obj\Debug\FrequencyAnalyzer.Properties.Resources.resources
+E:\Alexander\work\FrequencyAnalyzer\obj\Debug\FrequencyAnalyzer.csproj.GenerateResource.cache
+E:\Alexander\work\FrequencyAnalyzer\obj\Debug\FrequencyAnalyzer.csproj.CoreCompileInputs.cache
+E:\Alexander\work\FrequencyAnalyzer\obj\Debug\FrequencyAnalyzer.exe
+E:\Alexander\work\FrequencyAnalyzer\obj\Debug\FrequencyAnalyzer.pdb
+E:\Alexander\work\FrequencyAnalyzer\obj\Debug\FrequencyAnalyzer.Form2.resources
