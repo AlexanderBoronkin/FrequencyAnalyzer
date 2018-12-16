@@ -53,7 +53,7 @@ namespace FrequencyAnalyzer
             main_form.Top = this.Top;
             main_form.Show();        
         }
-        //ограничение не более 2 тысяч строк в файле
+        //ограничение не более 1 тысячи строк в файле
         private void button1_Click(object sender, EventArgs e)
         {
             richTextBox1.Text = "";
@@ -67,7 +67,7 @@ namespace FrequencyAnalyzer
                         lines = File.ReadAllLines(openfile1.FileNames[i], System.Text.Encoding.UTF8);
                     }
                 }
-                for (int i = 0; i < lines.Length&&i<2000; i++)
+                for (int i = 0; i < lines.Length&&i<1000; i++)
                 {
                     richTextBox1.Text += lines[i]+"\n";
                 }
